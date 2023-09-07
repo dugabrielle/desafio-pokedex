@@ -8,3 +8,7 @@ As tecnologias utilizadas foram:
 - CSS
 - Javascript
 - Integração de Api <a href="https://pokeapi.co/" target="_blank">PokeApi</a>
+
+Screenshot do projeto:
+
+![image-pokedex](https://github.com/dugabrielle/desafio-pokedex/assets/121505858/1ee72e81-ef93-4b0d-a370-08a3c463155d)
